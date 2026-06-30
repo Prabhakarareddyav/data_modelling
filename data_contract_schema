@@ -1,0 +1,14 @@
+study_id:
+ type: string
+
+species:
+ type: string
+
+dose:
+ type: float
+
+unit:
+ type: ontology_term
+
+version:
+ type: string
